@@ -1,3 +1,3 @@
  # Project Preview
  
- ![Project Preview](p.jpg)
+ ![Project Preview](img/p.jpg)
